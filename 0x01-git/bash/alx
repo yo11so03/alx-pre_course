@@ -1,5 +1,2 @@
 #!/bin/bash
-echo "Alx School is so cool"
-^C
-C
-
+echo "ALX School"
